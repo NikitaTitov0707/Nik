@@ -46,7 +46,7 @@
 
 <p>Как решал: Расчитал на основании сырых данных средний CAC, средний Retention, Lifetime, среднюю цену и LTR. Затем построил на основании данных калькулятор, где внес изменения для выхода на 25% маржинальность.<p>
 
-> <a href="[https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x](https://drive.google.com/drive/folders/1VVPgFf-qam-O3u80WmdXxo1LZ_-d8qDP)">Ссылка на проект</a>
+> <a href="(https://drive.google.com/drive/folders/1VVPgFf-qam-O3u80WmdXxo1LZ_-d8qDP)">Ссылка на проект</a>
  
  
 <p>Выводы (итоги):<p>
